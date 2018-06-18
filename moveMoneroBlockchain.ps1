@@ -16,7 +16,7 @@ if (!([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]:
     $blockchainExists = 0;
     $monero = "$env:ProgramData/bitmonero"
 
-    If (Test-Path $Zcash) {
+    If (Test-Path $monero) {
         $blockchainExists = 1;
         Write-Output "Monero Installed"
     }
