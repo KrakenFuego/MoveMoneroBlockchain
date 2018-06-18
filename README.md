@@ -1,4 +1,4 @@
-# Move Monero Blockkchain Location
+# Move Monero Blockchain Location
 Find my Blog @ https://krakenfuego.com
 
 Quick and Dirty Powershell script to move the location of the Monero Blockchain
